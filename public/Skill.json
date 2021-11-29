@@ -1,0 +1,47 @@
+[
+    {
+        "image": "https://i.ibb.co/1bVT8XH/512px-HTML5-logo-and-wordmark-svg-removebg-preview.png",
+        "name": "HTML",
+        "id": "1"
+    },
+    {
+        "image": "https://i.ibb.co/dQSbYXn/imgbin-css3-cascading-style-sheets-logo-html-world-wide-web-zygxjr-Fi-LMPap-E3j-VZC5-WSBQ5-removebg.png",
+        "name": "CSS",
+        "id": "2"
+    },
+    {
+        "image": "https://i.ibb.co/857N39s/kisspng-javascript-computer-icons-scalable-vector-graphics-list-of-javascript-enhancements-fandom-de.png",
+        "name": "JavaScript",
+        "id": "12"
+    },
+    {
+        "image": "https://i.ibb.co/5rtRJsc/download-removebg-preview.png",
+        "name": "React",
+        "id": "11z"
+    },
+    {
+        "image": "https://i.ibb.co/ZX4cyPY/Bootstrap-front-end-framework-Logo-wine-removebg-preview.png",
+        "name": "Bootstrap",
+        "id": "1ssssss"
+    },
+    {
+        "image": "https://i.ibb.co/r0Y97yn/download-1-removebg-preview.png",
+        "name": "Node Js",
+        "id": "1sdsasdasddsadsa"
+    },
+    {
+        "image": "https://i.ibb.co/8gcbtBM/images-removebg-preview.png",
+        "name": "Mongo DB",
+        "id": "1sdss333"
+    },
+    {
+        "image": "https://i.ibb.co/pwg7MFc/5f34fd1aa2ebfaf2cd548bafeb021c8f-removebg-preview.png",
+        "name": "Firebase",
+        "id": "dsadsas3213213"
+    },
+    {
+        "image": "https://i.ibb.co/Gc1L8rN/Tailwind-CSS-Logo-svg-removebg-preview.png",
+        "name": "Tailwind CSS",
+        "id": "1233456"
+    }
+]
